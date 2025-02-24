@@ -37,7 +37,7 @@ We encourage open collaboration and value improvements that help advance our mis
 
 If you have any questions or need further assistance, feel free to reach out to us:
 
-- Email: [Contact us](mailto:contact@blum-novotest.com)
+- Email: [Contact us](mailto:engineering@blum-novotest.com)
 - Website: [Blum-Novotest North America](https://www.blum-novotest.com/us/)
 
 We’re here to help and look forward to working together to drive innovation and excellence in precision measurement technology.
