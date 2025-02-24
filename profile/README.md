@@ -20,24 +20,21 @@ In this GitHub organization, you'll find a variety of software projects, includi
 
 Our repositories may contain both proprietary software and open-source projects, each tailored to meet the unique needs of our clients.
 
-## Contributing to Our Projects
+## How You Can Participate
 
-We welcome contributions to our projects! Whether you're submitting bug fixes, adding features, or enhancing documentation, we appreciate your efforts. Here's how to contribute:
+While only organization members can directly modify the code in our repositories, there are several ways for external contributors to get involved:
 
-1. Fork the repository you'd like to work on.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Make your changes and test them.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push your branch (`git push origin feature-branch`).
-6. Open a pull request for review.
+- **Submit Issues**: If you encounter any bugs, have feature requests, or need assistance, feel free to open an issue in any of our public repositories. We welcome feedback and aim to improve our projects based on your input.
+- **Fork Public Repositories**: You are welcome to fork any of our public repositories to make changes or enhancements. While you won’t be able to push changes directly to the main repository, you can create a pull request for review by our team.
+- **Participate in Discussions**: Engage in discussions related to our projects. Share ideas, ask questions, or help others with troubleshooting. Your insights are always appreciated.
 
-We encourage open collaboration and value improvements that help advance our mission to deliver high-quality solutions to our customers.
+We encourage collaboration and value contributions that help advance our mission to deliver high-quality solutions to our customers.
 
 ## Contact Us
 
 If you have any questions or need further assistance, feel free to reach out to us:
 
-- Email: [Contact us](mailto:engineering@blum-novotest.com)
+- Email: [Contact us](mailto:contact@blum-novotest.com)
 - Website: [Blum-Novotest North America](https://www.blum-novotest.com/us/)
 
 We’re here to help and look forward to working together to drive innovation and excellence in precision measurement technology.
